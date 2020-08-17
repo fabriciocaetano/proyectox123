@@ -6,8 +6,6 @@ I'm Android developer, technical leader, teacher, writer and also guitar player 
 
 - 🔭 I’m currently working on **Globant** as **Software Engineer**.
 
-<!-- - 👨‍🏫 I'm teacher in "[Curso de Clean Architecture en Android](https://platzi.com/cursos/clean-architecture-2020/)" at **Platzi**.-->
-
 - 🌱 I’m currently learning **Git**, **Leadership**, **Testing**.
 
 - 🎓 I'm certified as an **Associate Android Developer** by **Google** ([See credential](https://www.credential.net/63970483-0339-4b2a-82b2-f20fe21626d0#gs.dn77od)).
